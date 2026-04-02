@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Oumar Camara
 
-<!--
-**MicroRoot-MoMo/MicroRoot-MoMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Étudiant en informatique à l’Université de Bordeaux  
+🎯 Recherche une alternance en systèmes, réseaux ou développement (2026)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Compétences
+- Linux, TCP/IP, SSH  
+- Analyse réseau : Wireshark, netcat, netstat  
+- Programmation : Python, C, Java  
+- Développement web : PHP, MySQL  
+
+---
+
+## 🚀 Projets
+
+- 📱 **Réseau social (PHP / MySQL)**  
+  Développement d’un site web avec authentification, messagerie et gestion de profils  
+
+- 🌐 **Application client/serveur TCP (Python)**  
+  Implémentation de communications réseau via sockets TCP et analyse du trafic  
+
+- 🎮 **Projets en Java et C**  
+  Développement de jeux et programmes avec gestion de logique et structures de données  
+
+- 🐧 **Environnement Linux multi-machines**  
+  Configuration réseau, accès SSH et administration de systèmes Linux  
+---
+
+## 📫 Contact
+- 📧 mohamedoumarcamara5@gmail.com  
+- 💼 LinkedIn : https://linkedin.com/in/oumar-camara-335039295
